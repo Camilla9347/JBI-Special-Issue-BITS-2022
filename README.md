@@ -105,6 +105,8 @@ The data processing procedure has two output files:
 
  - a list of nodes (_gene_nodes.csv_), which represents the input gene nodes that survived after pc_parallel() application and for which an interaction was found in the output graph. Additional information, extracted from human and grapevine annotation files, is added for the biological interpretation of the results.
 
+These two files are contained in the **Vv** folder inside the **MAIN** folder, if a grapevine expansion list was chosen as input to the data processing procedure, or they are contained in the **Hs** folder inside the **MAIN** folder, if a human expansion list was chosen as input.
+
 ##### Homo sapiens example _p1@<!-- -->MFSD2A_nodes.csv_
 
 | ID | association_with_transcript | entrezgene_id | hgnc_id | uniprot_id | description | rank | Frel | type |
@@ -113,3 +115,25 @@ The data processing procedure has two output files:
 
 
 
+##### Vitis vinifera example _edges.csv_
+
+TO DO 
+
+##### Vitis vinifera example _nodes.csv_
+
+TO DO
+
+
+To visualize the pc_parallel() ouptut graph on Cytoscape, do the following steps:
+
+1. Open Cytoscape and allow the app to accept incoming network connections;
+2. Select the _network_ icon from the main horizontal toolbar, which stands for _Import Network from File System_ (or from File -> Import -> Network from file) and select the _gene_edges.csv_ file from the **Vv** folder or **Hs** folder inside **MAIN**;
+3. Click the OK button in the _Import Network from Table_ panel and wait for the network to load;
+4. Select the _table_ icon from the main horizontal toolbar, which stands for _Import Table from File_ (or from File -> Import -> Table from file) and select the _gene_nodes.csv_ file from the **Vv** folder or **Hs** folder inside **MAIN**;
+5. Click the OK button in the _Import Columns from Table_ panel and wait for the table to load;
+6. The **Vv** and **Hs** folders contain respectively a _Vv_style.xml_ and a _Hs_style.xml_ that can be uploaded in Cytoscape to customize the network appearance (From File -> Import -> Styles from file...). This feature is managed by the _Style_ panel (under _Network_ in the main vertical toolbar), from which you can selected the uploaded style and visualize the network in a more human-friendly and enriched way.
+
+###### Vv_style.xml legend
+to do 
+##### Hs_style.xml legend
+to do 
