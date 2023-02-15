@@ -97,7 +97,12 @@ The data processing procedure has two output files:
  - a list of edges (_gene_edges.csv_), which represents the interactions retrieved by pc_parallel() between the surviving input gene nodes, divided into _source_ and _target_, and the direction of their interaction, --- if undirected or  --> if directed. Also the pearson correlation (_cor_) computed between the input genes, as the zero-order conditional independence test, is provided, along with its sign (_cor_sign_)
  
 ##### Homo sapiens example _p1@<!-- -->MFSD2A_edges.csv_
- 
+
+| spurce | interaction | target | cor | cor_sign |
+| :---   |     :---  |   :--- |  :---  |:---    | 
+| T178190| --- | T009518 | 0.455 | + |
+| T032201 | --> | T054717 | 0.699 | + |
+
  - a list of nodes (_gene_nodes.csv_), which represents the input gene nodes that survived after pc_parallel() application and for which an interaction was found in the output graph. Additional information, extracted from human and grapevine annotation files, is added for the biological interpretation of the results.
 
 ##### Homo sapiens example _p1@<!-- -->MFSD2A_nodes.csv_
