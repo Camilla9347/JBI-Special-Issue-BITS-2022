@@ -48,7 +48,7 @@ For example:
 To run the data processing procedure, make sure you have a terminal panel open in the **MAIN** folder and type the following command:
 
   ```
-  % Rscript install.packages.R
+  % Rscript install_packages.R
   ```
 
 In this way, all the necessary R pacakges will be installed, if not present.
