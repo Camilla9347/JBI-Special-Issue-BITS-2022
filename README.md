@@ -102,9 +102,9 @@ The data processing procedure has two output files:
 
 ##### Homo sapiens example _p1@<!-- -->MFSD2A_nodes.csv_
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| ID | association_with_transcript | entrezgene_id | hgnc_id | uniprot_id | description | rank | Frel | type |
+| :---    |     :---  |   :--- |  :---  |:---    | :---                      | :--- | :---  |  :---                     |  
+| T178190 | p4@CDK6   | CDK6   | 1777   | Q00534 | cyclin dependent kinase 6 | 14   | 0.996 | gene with protein product |
+
 
 
