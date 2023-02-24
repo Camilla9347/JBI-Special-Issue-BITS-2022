@@ -1,0 +1,12 @@
+ID,gene_symbol,v3,group,subgroup,pathway_or_family,full_name,gene_name_synonyms,type,reaction_EC,Vitisnet_Network1,Vitisnet_Network2,rank,Frel
+VIT_04s0008g06000,ERF045,Vitvi04g00533,ERF,V,AP2/ERF,Ethylene-responsive transcription factor ERF003,,TF,,vv30008Ethylene_signaling,vv60003AP2_EREBP,0,1
+VIT_02s0109g00230,,Vitvi02g00936,,,,Early-responsive to dehydration protein / ERD protein,,,,,,,,1,1
+VIT_11s0052g00630,,Vitvi11g01650,,,,Metallothionein,,,,,,,,2,1
+VIT_12s0142g00160,,Vitvi12g02185,,,,Unknown protein,,,,,,,,3,1
+VIT_07s0031g00420,,Vitvi07g02662,,,,SHN1 (SHINE 1),,,SHINE1_2,vv30008Ethylene_signaling,vv60003AP2_EREBP,,,4,1
+VIT_17s0000g00430,bHLH075,Vitvi17g00046,bHLH,bHLH,bHLH,,,TF,,vv60011BHLH,,,,5,0.9995
+VIT_07s0031g01160,,Vitvi07g01794,,,,Hyperosmotically inducible periplasmic protein,,,K04065,vv50131Primary_active_transporter_cat_A2_to_A4,,,,6,0.999
+VIT_11s0016g03760,,Vitvi11g00321,,,,Unknown protein,,,,,,,,7,0.9981
+VIT_17s0000g01930,,Vitvi17g00162,,,,Potassium transporter 2,,,KUP2,vv50125Porters_cat_66_to_94,,,,8,0.9966
+VIT_06s0004g04490,,Vitvi06g00447,,,,Unknown protein,,,,,,,,9,0.9957
+VIT_14s0006g01280,MYBA7,Vitvi14g00925,R2R3-MYBs,MYBA_S6,MYBs,,,TF,,vv60044MYB,,,,10,0.9951
