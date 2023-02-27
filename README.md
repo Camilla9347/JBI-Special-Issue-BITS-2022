@@ -39,6 +39,17 @@ For example:
 5. You expansion list is now available in **MAIN** in csv format (_193111_Hs_p1@<!-- -->MFSD2A.csv_) and you can provide it as input to the data processing procedure.
 
 
+## Transcriptomic dataset preparation for the data processing procedure
+
+### Homo sapiens
+
+Right now, the file _fantom_mat.csv_ is a placeholder for the actual FANTOM-full transcriptomic dataset, a gene@home version of the FANTOM5 transcriptomic dataset. This file should be replaced and renamed accordingly in order for the data processing procedure to work. The FANTOM-full transcriptomic dataset can be downoloaded from: ?. The file will need to be extracted, renamed (_fantom_mat.csv_) and placed in the **MAIN** folder.
+
+### Vitis vinifera
+
+Right now, the file _vespucci_mat.csv_ is a placeholder for the actual VESPUCCI transcriptomic dataset. This file should be replaced and renamed accordingly in order for the data processing procedure to work. The VESPUCCI transcriptomic dataset can be downoloaded from: http://ibdm.disi.unitn.it/download-2/. The file will need to be extracted, renamed (_vespucci_mat.csv_) and placed in the **MAIN** folder.
+
+
 ## Input submission to the data processing procedure
 
 To run the data processing procedure, make sure you have a terminal panel open in the **MAIN** folder and type the following command:
