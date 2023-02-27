@@ -43,7 +43,7 @@ For example:
 
 ### Homo sapiens
 
-Right now, the file _fantom_mat.csv_ is a placeholder for the actual FANTOM-full transcriptomic dataset, a gene@home version of the FANTOM5 transcriptomic dataset. This file should be replaced and renamed accordingly in order for the data processing procedure to work. The FANTOM-full transcriptomic dataset can be downoloaded from: ?. The file will need to be extracted, renamed (_fantom_mat.csv_) and placed in the **MAIN** folder.
+Right now, the file _fantom_mat.csv_ is a placeholder for the actual FANTOM-full transcriptomic dataset, a gene@home version of the FANTOM5 transcriptomic dataset. This file should be replaced and renamed accordingly in order for the data processing procedure to work. The FANTOM-full transcriptomic dataset can be downoloaded from: [Human OneGenE download page](https://gene.disi.unitn.it/test/download/bc/hgnc_data_mat.csv.gz). The file will need to be extracted, renamed (_fantom_mat.csv_) and placed in the **MAIN** folder.
 
 ### Vitis vinifera
 
