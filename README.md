@@ -96,6 +96,8 @@ Here are some examples:
   % Rscript --vanilla data_processing_procedure.R 193111_Hs_p1@MFSD2A.csv Hs 200
 
   ```
+  
+**N.B.** The expansion lists of NFKB1 and TNF, used in the biological validation of the paper are made available for testing.
 
 ## Output visualisation in Cytoscape
 
