@@ -97,7 +97,7 @@ Here are some examples:
 
   ```
   
-**N.B.** The expansion lists of NFKB1 and TNF, used in the biological validation of the paper are made available for testing.
+**Note:** The expansion lists of NFKB1 and TNF, used in the biological validation of the paper are made available for testing.
 
 ## Output visualisation in Cytoscape
 
