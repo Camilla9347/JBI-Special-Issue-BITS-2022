@@ -110,16 +110,6 @@ These two files are contained in the **Vv** folder inside the **MAIN** folder, i
 | T178190 | p4@CDK6   | CDK6   | 1777   | Q00534 | cyclin dependent kinase 6 | 14   | 0.996 | gene with protein product |
 
 
-
-##### Vitis vinifera example _edges.csv_
-
-TO DO 
-
-##### Vitis vinifera example _nodes.csv_
-
-TO DO
-
-
 To visualize the pc_parallel() ouptut graph on Cytoscape, do the following steps:
 
 1. Open Cytoscape and allow the app to accept incoming network connections;
