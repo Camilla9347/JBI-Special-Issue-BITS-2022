@@ -47,7 +47,7 @@ Right now, the file _fantom_mat.csv_ is a placeholder for the actual FANTOM-full
 
 ### Vitis vinifera
 
-Right now, the file _vespucci_mat.csv_ is a placeholder for the actual VESPUCCI transcriptomic dataset. This file should be replaced and renamed accordingly in order for the data processing procedure to work. The VESPUCCI transcriptomic dataset can be downoloaded from: http://ibdm.disi.unitn.it/download-2/. The file will need to be extracted, renamed (_vespucci_mat.csv_) and placed in the **MAIN** folder.
+Right now, the file _vespucci_mat.csv_ is a placeholder for the actual VESPUCCI transcriptomic dataset. This file should be replaced and renamed accordingly in order for the data processing procedure to work. The VESPUCCI transcriptomic dataset can be downoloaded from: [Vitis OneGenE downolad page](http://ibdm.disi.unitn.it/download-2/). The file will need to be extracted, renamed (_vespucci_mat.csv_) and placed in the **MAIN** folder.
 
 
 ## Input submission to the data processing procedure
