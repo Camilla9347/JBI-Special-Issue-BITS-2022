@@ -23,8 +23,6 @@ For example:
 3. The expansion list will appear in your **Donwnload**n folder as a zip compressed file, just extract it (_54651_Vv-VIT_04s0008g06000.exp.csv_) to use it. The expansion list is already annotated with additional information about the candidate genes that could be useful for a biologist.
 4. Move the espansion list to the **MAIN** folder of this project to provide it as input to the ***data processing procedure***. 
 
----
-> :eye_speech_bubble: Vitis vinifera expansions list contain...
 
 ### Homo sapiens
 
@@ -40,8 +38,6 @@ For example:
   ```
 5. You expansion list is now available in **MAIN** in csv format (_193111_Hs_p1@<!-- -->MFSD2A.csv_) and you can provide it as input to the data processing procedure.
 
----
-> :eye_speech_bubble: Homo sapiens expansion lists contain...
 
 ## Input submission to the data processing procedure
 
@@ -132,8 +128,3 @@ To visualize the pc_parallel() ouptut graph on Cytoscape, do the following steps
 4. Select the _table_ icon from the main horizontal toolbar, which stands for _Import Table from File_ (or from File -> Import -> Table from file) and select the _gene_nodes.csv_ file from the **Vv** folder or **Hs** folder inside **MAIN**;
 5. Click the OK button in the _Import Columns from Table_ panel and wait for the table to load;
 6. The **Vv** and **Hs** folders contain respectively a _Vv_style.xml_ and a _Hs_style.xml_ that can be uploaded in Cytoscape to customize the network appearance (From File -> Import -> Styles from file...). This feature is managed by the _Style_ panel (under _Network_ in the main vertical toolbar), from which you can selected the uploaded style and visualize the network in a more human-friendly and enriched way.
-
-###### Vv_style.xml legend
-to do 
-##### Hs_style.xml legend
-to do 
